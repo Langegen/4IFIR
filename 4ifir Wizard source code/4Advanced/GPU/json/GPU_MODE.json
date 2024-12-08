@@ -1,19 +1,19 @@
 [
     {
         "name": "Eco 0 - Default",
-        "hex": "00"
+        "dec": "0"
     },
     {
         "name": "Eco ST1",
-        "hex": "01"
+        "dec": "1"
     },
     {
         "name": "Eco ST2",
-        "hex": "02"
+        "dec": "2"
     },    
     {
         "name": "Custom Table",
-        "hex": "03"
+        "dec": "3"
     }
 
 ]

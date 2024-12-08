@@ -1,0 +1,1 @@
+Levels of the minimum power consumption of the graphics card. The higher the number, the lower the minimum power consumption.

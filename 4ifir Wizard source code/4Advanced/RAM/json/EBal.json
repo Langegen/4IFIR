@@ -1,26 +1,26 @@
 [
     {
         "name": "eBAMATIC",
-        "hex": "000000"
+        "dec": "0"
     },
     {
         "name": "1 - SYK-LOH",
-        "hex": "01"
+        "dec": "1"
     },
     {
         "name": "2 - ECO ST1",
-        "hex": "02"
+        "dec": "2"
     },
     {
         "name": "3 - Default",
-        "hex": "03"
+        "dec": "3"
     },
     {
         "name": "4 - SPR ST1",
-        "hex": "04"
+        "dec": "4"
     },
     {
         "name": "5 - SPR ST2",
-        "hex": "05"
+        "dec": "5"
     }     
 ]

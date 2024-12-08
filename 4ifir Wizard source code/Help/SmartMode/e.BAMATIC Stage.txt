@@ -1,1 +1,2 @@
-Выбор уровня оптимизаций eBamatic. Чем выше значение, тем агрессивнее оптимизация.
+e.BAMATIC Stage - selects the level of eBamatic optimizations.
+The higher the value, the more aggressive the optimization.
